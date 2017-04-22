@@ -1,4 +1,7 @@
-# test coverage for  [live-server (v1.2.0)](https://github.com/tapio/live-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-live-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-live-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-live-server.svg)](https://travis-ci.org/npmtest/node-npmtest-live-server)
+# npmtest-live-server
+
+#### basic test coverage for  [live-server (v1.2.0)](https://github.com/tapio/live-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-live-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-live-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-live-server.svg)](https://travis-ci.org/npmtest/node-npmtest-live-server)
+
 #### simple development http server with live reload capability
 
 [![NPM](https://nodei.co/npm/live-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/live-server)
